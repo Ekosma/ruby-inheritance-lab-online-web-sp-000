@@ -10,4 +10,6 @@ class Student < User
     @knowledge << things
   end
 
+  
+
 end
